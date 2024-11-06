@@ -1,5 +1,5 @@
 ![NotesApplication](readme_images/home.png)
-#HangMan-Collection-2020
+# HangMan-Collection-2020
 
 Hangman is a simple implementation of the classic game, part of my 2020 collection of projects. This project was done during my React.js course, where I focused on mastering stateful front-end frameworks. The primary goal of this project was to practice handling game states and managing user interactions in React.
 
