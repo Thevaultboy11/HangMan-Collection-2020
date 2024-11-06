@@ -1,5 +1,6 @@
 ![NotesApplication](readme_images/home.png)
 #HangMan-Collection-2020
+
 Hangman is a simple implementation of the classic game, part of my 2020 collection of projects. This project was done during my React.js course, where I focused on mastering stateful front-end frameworks. The primary goal of this project was to practice handling game states and managing user interactions in React.
 
 ## Getting Started with Create React App
@@ -7,6 +8,11 @@ Hangman is a simple implementation of the classic game, part of my 2020 collecti
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+To run the application you must first install the node_modules wih the comand. 
+
+### `npm install --force`
+
 
 In the project directory, you can run:
 
